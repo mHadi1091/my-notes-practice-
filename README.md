@@ -1,7 +1,7 @@
 # my notes and practice
 
-### basic concept of programming 
+### 1st sems notess
 
--[basic concept](./basicintro.md)
+-[subjects](./subjectlist.md)
 
 
