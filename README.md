@@ -2,5 +2,6 @@
 
 ### basic concept of programming 
 
--[basic concept]
+-[basic concept](./basicintro.md)
+
 
