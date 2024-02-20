@@ -2,8 +2,8 @@
 | all six subjects | type | links |
 |------------------|------|-------|
 | programming fundamentals | lab work and thoery | [programming](./programming.md) |
-| english | thoery |
-| islamic studies | thoery |
-| pre calculus | thoery |
-| applied physics | lab work and thoey |
-| application of information and comunication technoliges | lab work and thoery |  
+| english | thoery | [english](./english.md) |
+| islamic studies | thoery | [islamicstudies](./islamicstd.md) |
+| pre calculus | thoery | [precalculus](./calculus) |
+| applied physics | lab work and thoey | [physices](./physics) |
+| application of information and comunication technoliges | lab work and thoery | [informationandtech](./infoandtech) |
