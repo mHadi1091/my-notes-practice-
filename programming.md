@@ -5,9 +5,9 @@
 ## input/output
 #### input/output are the most basic fundamentals of a program 
 ```mermaid
-flowchart LR
- [input]--> [user or external source]
- [output]--> [shows results]
+ graph LR
+   input--> user or external source
+   output--> viewing results 
 ```
 #### the input and output wre the wroking fundamental of a program which is subdivided into other aspects
 # variables
