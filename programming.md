@@ -38,3 +38,11 @@ int main() {
     return 0;
 }
 ```
+#### age, name, and is_student are variables.
+age is an integer variable initialized with the value 25.
+name is a string variable initialized with the value "John".
+is_student is a boolean variable initialized with the value true.
+The cout statement is used to print the values of these variables.
+age is reassigned a new value of 30.
+The program outputs the values of the variables and the updated value of age.
+Remember that in C++, you need to include the appropriate header files (<iostream> in this case) and use the using namespace std; directive to avoid typing std:: before standard library elements like cout and endl
