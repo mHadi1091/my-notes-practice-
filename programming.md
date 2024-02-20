@@ -6,6 +6,6 @@
 #### input/output are the most basic fundamentals of a program 
 ```mermaid
 flowchart LR
- input--> user or external source
- output--> shows results
+ [input]--> [user or external source]
+ [output]--> [shows results]
 ```
