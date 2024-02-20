@@ -2,7 +2,8 @@
 ## basic fundamental
 
 ### the computer is based on 10 basic fundamentals
-```
-codeblocker
-```
+```mermaid
+flowchart LR
+ one-->two
+two-->three
 
