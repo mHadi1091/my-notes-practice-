@@ -1,4 +1,4 @@
 # 1st semester subject list 
-|all six subjects|
+| all six subjects |
 |-------|--------|
-|programming fundamentals|lab work and thoery|
+| programming fundamentals | lab work and thoery |
