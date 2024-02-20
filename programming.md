@@ -1,6 +1,11 @@
 # fundamentals of programming
 ## basic fundamental
-'''
-this is codeblocker
+
+###the computer is based on 10 basic fundamentals
 
 '''
+
+codeblocker
+
+'''
+
