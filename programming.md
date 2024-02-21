@@ -68,16 +68,16 @@ The computer is based on 10 basic fundamentals
 7. **data types**:
 
    Here are a few examples of data types
-   * **Integer**: Used to store whole numbers without any decimal point. Examples include 1, -5, 1000.
-   * **Floating-point**: Used to store numbers with decimal points. Examples include 3.14, -0.5, 10.0
-   * **Character**: Used to store individual characters. Examples include 'a', 'B', '$'
-   * **String**: Used to store sequences of characters. Examples include "hello", "world", "123".
-   * **Boolean**: Used to represent true or false values. Examples include true, false.
-   * **Array**: Used to store a collection of elements of the same data type. Examples include [1, 2, 3], ['apple', 'banana', 'orange'].
+   * **Integer**: Used to store whole numbers without any decimal point. Examples include `1, -5, 1000`.
+   * **Floating-point**: Used to store numbers with decimal points. Examples include `3.14, -0.5, 10.0`
+   * **Character**: Used to store individual characters. Examples include `'a', 'B', '$'`
+   * **String**: Used to store sequences of characters. Examples include `"hello", "world", "123".`
+   * **Boolean**: Used to represent true or false values. Examples include `true, false.`
+   * **Array**: Used to store a collection of elements of the same data type. Examples include `[1, 2, 3], ['apple', 'banana', 'orange'].`
 
 8. **control structures**
 
-   Control structures allow you to control the flow of a program. Common control structures include conditional statements (if-else statements), loops (for loops, while loops), and switch statements
+   Control structures allow you to control the flow of a program. Common control structures include conditional statements `(if-else statements)`, `loops (for loops, while loops)`, and `switch statements`
 
 9. **data structures**
 
