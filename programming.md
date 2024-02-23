@@ -103,5 +103,7 @@ flowchart TD
 A([start]) --> B[/instruction/input/]
 A--> C[/output/]
 B & C --> D[processing]
+D -->|arrows show the flow| E{decision amking b/w two possibilties}
+E --> F([end]) 
  
 ```
