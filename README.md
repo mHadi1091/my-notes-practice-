@@ -1,7 +1,7 @@
 
 
 # 🎯 My CS Notes 🎯
-## 1st semester subject list 
+## 1st semester subject list 📝
 | all six subjects | type | links |
 |------------------|------|-------|
 | programming fundamentals | lab work and thoery | [programming](./programming.md) |
