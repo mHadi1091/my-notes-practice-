@@ -103,7 +103,17 @@ flowchart TD
 A([start]) --> B[/instruction/input/]
 A--> C[/output/]
 B & C --> D[processing]
-D -->|arrows show the flow| E{decision amking b/w two possibilties}
+D -->|arrows show the flow| E{decision making b/w two possibilties}
 E --> F([end]) 
  
+```
+# make an auto-grading system 
+```mermaid
+flowchart TD
+A([start]) --> B[/pass/fail/]
+B --> C{ x pass > y fail}
+C -->|false| D[/fail/]
+C -->|true| E[/pass/]
+D --> F([end])
+E --> F([end])
 ```
