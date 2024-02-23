@@ -93,8 +93,11 @@ The computer is based on 10 basic fundamentals
 
 # class tasks no: 01
 * make an algorithm flowchart
-* calculate the area of room and make an instructive algorithm chart of it
-
+* solve a problem using algorithm seqeuance
+## givem problems 
+1. calculate the area of room
+2. make an auto-system for grading
+# algorithm model 
 ```mermaid
 flowchart TD
 A([start]) --> B[/instruction/input/]
