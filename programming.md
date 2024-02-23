@@ -98,5 +98,5 @@ The computer is based on 10 basic fundamentals
 ```mermaid
 flowchart LR
  pc --> instruction
- C --> D
+ abcdsdh --> softwareee
 ```
