@@ -90,3 +90,13 @@ The computer is based on 10 basic fundamentals
 11. **debugging/testing**
 
     debugging and testing is used to see if the program is running properly and is bug-free
+
+# class tasks no: 01
+* make an algorithm flowchart
+* calculate the area of room and make an instructive algorithm chart of it
+
+```mermaid
+flowchart LR
+ A --> B
+ C --> D
+```
