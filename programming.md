@@ -97,6 +97,5 @@ The computer is based on 10 basic fundamentals
 
 ```mermaid
 flowchart TB
- id1[(start])
-
+ A & B--> C & D
 ```
