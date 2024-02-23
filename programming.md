@@ -6,9 +6,8 @@ The computer is based on 10 basic fundamentals
 1. **input/output**:
 
    input/output are the most basic fundamentals of a program 
-  ```
-     mermaid
-     graph LR
+  ```mermaid
+     flowchart LR
      A[input] --> B[user or external source]
      C[output] --> D[viewing results] 
   ```
