@@ -9,8 +9,8 @@ The computer is based on 10 basic fundamentals
   ```
      mermaid
      graph LR
-     input --> user or external source
-     output --> viewing results 
+     A[input] --> [user or external source]
+     B[output] --> [viewing results] 
   ```
    the input and output are the working fundamentals of a program which is subdivided into other aspects
 
