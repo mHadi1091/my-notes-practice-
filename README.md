@@ -8,7 +8,7 @@
 | english | thoery | [english](./english.md) |
 | islamic studies | thoery | [islamicstudies](./islamicstd.md) |
 | pre calculus | thoery | [precalculus](./calculus) |
-| applied physics | lab work and thoery | [physices](./physics) |
+| applied physics | lab work and thoery | [physices](./physics.md) |
 | application of information and comunication technoliges | lab work and thoery | [informationandtech](./infoandtech) |
 
 
