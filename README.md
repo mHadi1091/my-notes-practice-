@@ -1,4 +1,4 @@
-# my notes and practic 
+
 
 # 🎯 My CS Notes 🎯
 ## 1st semester subject list 
