@@ -96,7 +96,7 @@ The computer is based on 10 basic fundamentals
 * calculate the area of room and make an instructive algorithm chart of it
 
 ```mermaid
-flowchart LR
- pc --> instruction
- abcdsdh --> softwareee
+flowchart TB
+ (start)
+(end)
 ```
