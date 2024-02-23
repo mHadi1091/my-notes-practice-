@@ -102,5 +102,6 @@ The computer is based on 10 basic fundamentals
 flowchart TD
 A([start]) --> B[/instruction/input/]
 A--> C[/output/]
+B & C --> D[processing]
  
 ```
