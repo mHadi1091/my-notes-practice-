@@ -1,4 +1,4 @@
-|   week 1  |
+|   week 1  |----|
 |-----|-----|
 | topic/lecture | coulombs law |
 | topic/lec | elcrostatic |
