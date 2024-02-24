@@ -1,3 +1,4 @@
+
 # topics done this week 
 * intoduction to computer
 * hardware/software
