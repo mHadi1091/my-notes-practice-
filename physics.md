@@ -1,5 +1,5 @@
-|   week 1  |----|
+|   week 1  | topics |
 |-----|-----|
-| topic/lecture | coulombs law |
-| topic/lec | elcrostatic |
+| lecture | coulombs law |
+| lecture | elcrostatic |
 | lab work | exp:1 verinar calliper |
