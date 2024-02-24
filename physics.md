@@ -1,7 +1,5 @@
-# 1st week 
-* coulombs law
-* electrostatics
-# lab work 
-## experiment no: 1
-* calculate the diameter and radius of a small & big sphere
-
+|   week 1  |
+|-----|-----|
+| topic/lecture | coulombs law |
+| topic/lec | elcrostatic |
+| lab work | exp:1 verinar calliper |
