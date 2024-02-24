@@ -1,6 +1,6 @@
 # Fundamentals of programming ✏️
 
-### Basic fundamental
+### Basic fundamental 📣
 
 The computer is based on 10 basic fundamentals
 1. **input/output**:
@@ -90,13 +90,13 @@ The computer is based on 10 basic fundamentals
 
     debugging and testing is used to see if the program is running properly and is bug-free
 
-# class tasks no: 01
+### class tasks no: 01
 * make an algorithm flowchart
 * solve a problem using algorithm seqeuance
-## given problems 
+#### given problems 
 1. calculate the area of room
 2. make an auto-system for grading
-# algorithm model 
+### algorithm model 
 ```mermaid
 flowchart TD
 A([start]) --> B[/instruction/input/]
@@ -106,7 +106,7 @@ D -->|arrows show the flow| E{decision making b/w two possibilties}
 E --> F([end]) 
  
 ```
-# make an auto-grading system 
+### make an auto-grading system 
 ```mermaid
 flowchart TD
 A([start]) --> B[/pass/fail/]
