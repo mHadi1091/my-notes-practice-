@@ -6,4 +6,4 @@
 
 # coulombs law 
 * statement:
-            ` testing testing testing `
+            `coulombs law is a experimental law which calculate the amount of force between two electircally charged perticals at rest `
