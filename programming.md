@@ -111,8 +111,8 @@ E --> F([end])
 flowchart TD
 A([start]) --> B[/pass/fail/]
 B --> C{ x pass > y fail}
-C -->|false| D[/fail/]
-C -->|true| E[/pass/]
+C -->|40| D[/fail/]
+C -->|50| E[/pass/]
 D --> F([end])
 E --> F([end])
 ```
