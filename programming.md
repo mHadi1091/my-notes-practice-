@@ -1,6 +1,6 @@
 # Fundamentals of programming ✏️
 
-### Basic fundamental
+### Basic fundamental 📣
 
 The computer is based on 10 basic fundamentals
 1. **input/output**:
