@@ -28,3 +28,10 @@ the instructions and gives the result (output).
 |Consists of objects that can be `touched and observed`|software exists only in `digital form `and is accessed via a `user interface`|
 |hardware components may need to be repaired or replaced due to damage or obsolescence|Not subject to physical deterioration, but may become obsolete or incompatible with newer hardware|
 |Not susceptible to viruses or malicious software|vulnerable to viruses and other forms of malicious software|
+
+### format of assignment done today!!! ( lab task )
+* how to write a formal letter
+* how to make a cv
+* university format for assignments
+* presentation format
+*  
