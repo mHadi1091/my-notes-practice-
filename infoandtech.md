@@ -19,7 +19,8 @@ the instructions and gives the result (output).
 * ` powwer of remembering `
 * ` Versatility`
 * ` No I Q (Intelligence Quotient)`
-
+* ` reliability `
+* ` communication `
 ## hardware & software 
 | hardware🔌| software👩‍💻 |
 |----------|----------|
