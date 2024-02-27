@@ -39,10 +39,10 @@
 * Test charges play a crucial role in understanding and quantifying electric fields, allowing for the investigation of how charges interact and influence each other within a given space.
 ## Examples of utilizing test charges to understand electric fields include:
 
-1. **Point charge in uniform electric field**: Imagine a single positive test charge placed in a uniform electric field caused by other charges. The test charge experiences a constant force in the direction of the electric field lines, enabling us to determine the electric field strength and direction[1].
+1. **Point charge in uniform electric field**: Imagine a single positive test charge placed in a uniform electric field caused by other charges. The test charge experiences a constant force in the direction of the electric field lines, enabling us to determine the electric field strength and direction.
 
-2. **Charged spheres**: Consider two identical spheres, initially holding equal amounts of positive and negative charges. When one sphere acquires an additional positive charge by coming into proximity with a charged object, the negative charge on the other sphere moves towards the positively charged sphere, creating an imbalance of charges and an electric field between the spheres[2].
+2. **Charged spheres**: Consider two identical spheres, initially holding equal amounts of positive and negative charges. When one sphere acquires an additional positive charge by coming into proximity with a charged object, the negative charge on the other sphere moves towards the positively charged sphere, creating an imbalance of charges and an electric field between the spheres.
 
-3. **Rubbed glass and silk**: Glass rubbed with silk gains a positive charge, while the silk obtains a negative charge. Separation of the glass and silk leads to an attractive force between them, as the positive and negative charges seek to recombine, forming an electric field[2].
+3. **Rubbed glass and silk**: Glass rubbed with silk gains a positive charge, while the silk obtains a negative charge. Separation of the glass and silk leads to an attractive force between them, as the positive and negative charges seek to recombine, forming an electric field.
 
 These examples demonstrate how test charges help us analyze and visualize electric fields, thereby deepening our understanding of the relationships among charges, electric fields, and forces.
