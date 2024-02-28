@@ -63,7 +63,7 @@ the instructions and gives the result (output).
 Certainly! Here's a comparison of Commercial Off-The-Shelf (COTS) solutions versus custom-built solutions, along with their pros and cons:
 
 **Commercial Off-The-Shelf (COTS) Solutions:**
-## defination: COTS stands for "Commercial Off-The-Shelf." It refers to software or hardware products that are ready-made and available for purchase from third-party vendors, rather than being developed in-house. These products are designed to be used as-is or with minimal customization to fulfill common business or organizational needs.
+## COTS stands for "Commercial Off-The-Shelf." It refers to software or hardware products that are ready-made and available for purchase from third-party vendors, rather than being developed in-house. These products are designed to be used as-is or with minimal customization to fulfill common business or organizational needs.
 
 Pros:
 1. **Cost-Effective**: Generally, COTS solutions are cheaper upfront because the development costs are spread across multiple users.
