@@ -44,4 +44,18 @@ the instructions and gives the result (output).
   * `micro computers`: A microcomputer is a small computer typically equipped with a microprocessor, especially known as a personal computer. These devices are compact and commonly used for personal or small-scale computing tasks.
 * `mini computers`: A minicomputer is a type of computer that retains most features and capabilities of a large computer but is smaller in physical size, offering a balance between mainframes and personal computers.
 * `main computers`: A mainframe computer, also known as a mainframe or big iron, is a powerful computer primarily utilized by large organizations for critical applications such as bulk data processing, industry statistics, enterprise resource planning, and transaction processing. Mainframes are distinguished by their significant processing power, larger size than personal computers, and capability to handle very high volumes of input and output. These computers are designed to support multiple users simultaneously and are often used as servers in data centers.
+
+  # computers usage in differenet professions;
+* here's the list:
+
+1. Information Technology (IT)
+2. Healthcare
+3. Education
+4. Finance
+5. Engineering
+6. Architecture
+7. Marketing and Advertising
+8. Science and Research
+9. Legal
+10. Media and Entertainment 
    
