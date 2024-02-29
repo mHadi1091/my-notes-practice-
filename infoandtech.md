@@ -96,3 +96,9 @@ Cons:
 4. **Potential for Over-Engineering**: Custom solutions may be over-engineered, including unnecessary features or complexity that adds development time and cost.
 5. **Risk of Project Failure**: Custom development projects carry inherent risks, including scope creep, budget overruns, and technical challenges, which can lead to project failure if not managed effectively.
 
+
+## lab tasks 
+* Ms world
+* practice of assignment format
+* quiz on monday related to it
+   
