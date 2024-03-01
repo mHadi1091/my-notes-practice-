@@ -116,6 +116,8 @@ C -->|50| E[/pass/]
 D --> F([end])
 E --> F([end])
 ```
-
+## lab tasks #01
+* make a flowchart & pseudo-code of add two numbers
+* make a flowchart & pesudo-code of odd numbers 
 
 
