@@ -46,3 +46,8 @@
 3. **Rubbed glass and silk**: Glass rubbed with silk gains a positive charge, while the silk obtains a negative charge. Separation of the glass and silk leads to an attractive force between them, as the positive and negative charges seek to recombine, forming an electric field.
 
 These examples demonstrate how test charges help us analyze and visualize electric fields, thereby deepening our understanding of the relationships among charges, electric fields, and forces.
+
+## quiz 1 on monday 
+* coulombs law
+* electric field
+* numericals
