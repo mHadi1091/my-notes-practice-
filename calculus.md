@@ -8,3 +8,4 @@
 * its types and uses
 * ie: disjoint set , power set
   
+## assignment no 1 on thusday
