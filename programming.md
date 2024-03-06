@@ -146,20 +146,20 @@ E --> F([end])
 |5|double|
 |6|int|
 
--##`programmer defined-identifiers`
+## programmer defined-identifiers
 * these are not the part of c++ language it is use by the user to denote  variables
 * example `num1 , a , b , num2`
 
-- ##`operators`
+ ## operators
 - * operators are used to run or operate the given data in a program
   * these can be your basic arthimatic operators such as;
   * `+ , - , * , / `
  
-- ##`puntuations`
+ ## puntuations
 - these are basically the grammatic structure of the program which is used to puntuate the line it is also use to list and to sperate the alements of the statement
 - for example at the the end of the code we use ` ; `
 
-- ##`syntax`
+## syntax
 - a syntax is the rules or grammer of a program
 - every programming language have its own syntax which are the rules on basics of which a code to be written
 - if any thing is not related to syntax or the rule & grammer so the user is given the
