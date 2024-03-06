@@ -137,4 +137,11 @@ E --> F([end])
 - puntuation ` symbols that organize for example comma ( , )`
 - syntax ` rules and grammer of any program is called its syntax`
 
-
+|serial no|reversed words|
+|---------|--------------|
+|1|auto|
+|2|case|
+|3|char|
+|4|float|
+|5|double|
+|6|int|
