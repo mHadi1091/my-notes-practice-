@@ -118,6 +118,23 @@ E --> F([end])
 ```
 ## lab tasks #01
 * make a flowchart & pseudo-code of add two numbers
-* make a flowchart & pesudo-code of odd numbers 
+* make a flowchart & pesudo-code of odd numbers
+* make a program based on user use which gives the avarage of 3 given values
+
+ # history of programming languages 
+ * the 1st ever language was known as `B`
+ * which didnt work out well and had lots of busga and error
+ * the `C` language was an alternative of `B` language and this language changed the history into evalution in the computer world
+ * than more alternative of this language were made such as `C++` & `C#`
+ * slowly more languages came into existance and now there are more than enough languages for a programmer to learn and to enhance the computer performances
+
+   
+# what is a program made of 
+## common elements in a program 
+- key/reserved words `predefined meaning`
+- programmer defined-identifer `rules apply`
+- operators `( + ) for add, ( * ) for multiply, ( / ) for divide`
+- puntuation ` symbols that organize for example comma ( , )`
+- syntax ` rules and grammer of any program is called its syntax`
 
 
