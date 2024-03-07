@@ -9,3 +9,5 @@
 * ie: disjoint set , power set
   
 ## assignment no 1 on thusday
+## quiz 1 complete 
+
