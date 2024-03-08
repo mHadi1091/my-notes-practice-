@@ -13,7 +13,7 @@
 
 
 # lecture no:03
-*what are functions and their types
-*what is domian and range of the functions 
-*excerises realted to the function 
+* what are functions and their types
+* what is domian and range of the functions 
+* excerises realted to the function 
 
