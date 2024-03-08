@@ -10,4 +10,10 @@
 # lecture no: 03
 * parts of speech
 * noun its types
+# lecture no: 04
+* what are pronouns and its types
+* whats are articles
+* articles rules
+* `quiz taken related to active and passive tenses`
+
   
