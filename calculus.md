@@ -11,3 +11,9 @@
 ## assignment no 1 on thusday
 ## quiz 1 complete 
 
+
+# lecture no:03
+*what are functions and their types
+*what is domian and range of the functions 
+*excerises realted to the function 
+
