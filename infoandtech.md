@@ -111,3 +111,4 @@ Cons:
 * DEFINATION:`The use of software to control machine tools and automate manufacturing processes.`
 * CAM has evolved to be an essential tool in various industries such as aerospace and automotive, offering benefits like increased machining accuracy, faster job completion, material and tool savings, and digital review through simulation checks
 * The software calculates optimal tool motion for specific parts and toolpaths, reducing manual programming time while improving precision.
+* `example;`Autodesk Fusion 360: Fusion 360 is a cloud-based 3D CAD, CAM, and CAE tool that integrates design, modeling, and simulation capabilities. It supports additive manufacturing in polymers and metals
