@@ -54,6 +54,6 @@ These examples demonstrate how test charges help us analyze and visualize electr
 
  # Electric flux
  * `Electric flux quantifies the electric field passing through a given surface, regardless of its size or shape.`
- * Electric flux is a fundamental concept in electromagnetism that measures the electric field passing through a given surface. It is defined as the dot product of the electric field and the area vector, representing the number of electric field lines crossing a surface. The electric flux through a surface is directly proportional to the total number of electric field lines passing through it
+ * Electric flux is a fundamental concept in electromagnetism that measures the electric field passing through a given surface. It is defined as the dot product of the electric field and the area vector, representing the number of electric field lines crossing a surface. The electric flux through a surface is directly proportional to the total number of electric field lines passing through it.
   
    
