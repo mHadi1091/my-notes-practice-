@@ -112,3 +112,6 @@ Cons:
 * CAM has evolved to be an essential tool in various industries such as aerospace and automotive, offering benefits like increased machining accuracy, faster job completion, material and tool savings, and digital review through simulation checks
 * The software calculates optimal tool motion for specific parts and toolpaths, reducing manual programming time while improving precision.
 * `example;`Autodesk Fusion 360: Fusion 360 is a cloud-based 3D CAD, CAM, and CAE tool that integrates design, modeling, and simulation capabilities. It supports additive manufacturing in polymers and metals
+
+## CIM(Computer-Integrated Manufacturing)
+* CIM is a manufacturing approach that uses computers to control and integrate all aspects of the production process. Imagine a factory where every step, from design to delivery, is linked through a central computer system. This creates a smooth flow of information and materials, leading to a more efficient and streamlined operation
