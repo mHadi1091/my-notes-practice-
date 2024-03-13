@@ -124,3 +124,13 @@ Cons:
 * `Robotics & Automation`: Robots controlled by computers weld, paint, and assemble the car parts based on the digital design data. Sensors constantly monitor the process and provide real-time feedback for adjustments.
 
 * `Quality Control`: Automated inspection systems using cameras and lasers check for any defects in the car throughout the assembly line. Any issues are flagged for correction.
+
+## CAD(Computer-Aided Design)
+* `DEFINATION`:it's essentially using software to create digital versions of real-world objects. These can be either 2D drawings or 3D models.
+* here are a few properties,
+* `Digital Design`: Instead of traditional pen and paper drafting, CAD allows for creating designs on a computer. This offers greater precision, easier editing, and the ability to visualize the design in 3D.
+* `Increased Productivity`: Since edits and modifications are much simpler in CAD compared to manual drafting, it saves designers significant time and effort.
+* `Improved Design Quality`: Features like dimensioning tools and automatic error checking in CAD software help ensure designs are accurate and meet specifications.
+* `Collaboration`: CAD models can be easily shared electronically, allowing engineers and designers to collaborate on projects more effectively.
+* `Manufacturing Integration`: CAD software can generate instructions for computer-controlled machines used in manufacturing (CAM - Computer-Aided Manufacturing), streamlining the production process.
+
