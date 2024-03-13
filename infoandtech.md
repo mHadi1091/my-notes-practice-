@@ -115,3 +115,12 @@ Cons:
 
 ## CIM(Computer-Integrated Manufacturing)
 * CIM is a manufacturing approach that uses computers to control and integrate all aspects of the production process. Imagine a factory where every step, from design to delivery, is linked through a central computer system. This creates a smooth flow of information and materials, leading to a more efficient and streamlined operation
+* `Design`:  Engineers use computer-aided design (CAD) software to design the car. This software stores all the data about the car's parts and assembly.
+
+* `Planning & Scheduling`: The production plan is created using software that considers factors like material availability, machine capacity, and deadlines. This plan is then communicated to all the other CIM systems.
+
+* `Materials Ordering & Inventory`: The CIM system automatically checks inventory levels and triggers orders for new parts when needed. This ensures there are no stockouts that could delay production.
+
+* `Robotics & Automation`: Robots controlled by computers weld, paint, and assemble the car parts based on the digital design data. Sensors constantly monitor the process and provide real-time feedback for adjustments.
+
+* `Quality Control`: Automated inspection systems using cameras and lasers check for any defects in the car throughout the assembly line. Any issues are flagged for correction.
