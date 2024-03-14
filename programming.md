@@ -178,7 +178,7 @@ E --> F([end])
 * /= (divide and assign)
 * %= (modulo and assign)
 
-##Increments 
+## Increments 
 * increments refer to the act of increasing the value of a variable by 1. There are two main types of increment operators
  
 |prefix|postfix|
