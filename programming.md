@@ -165,3 +165,16 @@ E --> F([end])
 - if any thing is not related to syntax or the rule & grammer so the user is given the
 - `syntax error`
 
+ ## multiple assignment 
+ * Multiple assignment is a feature in many programming languages that allow you to assign the same value to multiple variables at once.
+ * example:`x=y=z=5`
+ * the value of `5` will be first saved into `z` then the `y` value will also be `5` because value of `z` is `5` and soo on the value goes till `x`.
+
+## combined assignment
+* Combined assignment, also known as compound assignment, is a shortcut way of combining an operation with an assignment in programming.
+* += (add and assign)
+* -= (subtract and assign)
+* *= (multiply and assign)
+* /= (divide and assign)
+* %= (modulo and assign)
+
