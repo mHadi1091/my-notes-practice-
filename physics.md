@@ -55,6 +55,21 @@ These examples demonstrate how test charges help us analyze and visualize electr
  # Electric flux
  * `Electric flux quantifies the electric field passing through a given surface, regardless of its size or shape.`
  * Electric flux is a fundamental concept in electromagnetism that measures the electric field passing through a given surface. It is defined as the dot product of the electric field and the area vector, representing the number of electric field lines crossing a surface. The electric flux through a surface is directly proportional to the total number of electric field lines passing through it.
+# Gauss's law 
+* `Gauss's law is a fundamental law in electromagnetism that relates the electric field to the electric charge it originates from. Here's a breakdown of the key ideas.`
+## Formal Definition:
+
+The law has two forms: integral and differential. The integral form relates the total electric flux passing through a closed surface (represented by the mathematical concept of divergence) to the enclosed charge. It's written as:
+
+* `Φ = ∮ E • dA / ε₀`
+
+Here, Φ is the electric flux, E is the electric field, dA is a tiny area element of the surface, and ε₀ (epsilon naught) is the permittivity of free space, a constant value.
+
+## Applications:
+
+Gauss's law is a powerful tool for solving problems in electrostatics because it allows us to calculate the electric field for certain symmetrical charge distributions without directly finding the forces between individual charges. This is particularly useful for situations with complex geometries.
+
+For example, it can be used to determine the electric field of a uniformly charged sphere, a cylinder, or a plane sheet.
 
   
    
