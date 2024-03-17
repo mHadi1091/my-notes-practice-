@@ -134,5 +134,7 @@ Cons:
 * `Collaboration`: CAD models can be easily shared electronically, allowing engineers and designers to collaborate on projects more effectively.
 * `Manufacturing Integration`: CAD software can generate instructions for computer-controlled machines used in manufacturing (CAM - Computer-Aided Manufacturing), streamlining the production process.
 
+## assignment#02 complete
+
 
 
