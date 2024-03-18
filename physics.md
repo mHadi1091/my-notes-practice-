@@ -71,5 +71,8 @@ Gauss's law is a powerful tool for solving problems in electrostatics because it
 
 For example, it can be used to determine the electric field of a uniformly charged sphere, a cylinder, or a plane sheet.
 
+# Electric field of a uniformly charged sphere
+*
+
   
    
