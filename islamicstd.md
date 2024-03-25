@@ -11,4 +11,5 @@
 * `Touheed` effect in our daily life
 * `ayats of qur'an` related to todays lecture.
 # staric religion and non staric religion 
-* religion which are made on the basics of human mythology is know as `non staric religion `
+* religion which are made on the basics of human mythology is know as `non staric religion `.
+* religion based on the heavenly books such as `Torah,Injeel,Qur'an` is known as staic religion.
