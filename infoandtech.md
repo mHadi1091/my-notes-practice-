@@ -11,7 +11,7 @@
 instructions (input) from the user, process the data according to
 the instructions and gives the result (output).
 
-## Characteristics of compuetrs 🖥️
+## Characteristics of computers 🖥️
 * the characteristices of a computer are based on few things given below:
 * ` speed `
 * ` accuracy `
