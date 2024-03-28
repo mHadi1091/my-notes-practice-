@@ -19,7 +19,7 @@
 * skimming
 - `skimming is said to be the way of fast reading and overviewing the main idea and concept of the given texts`
 * scanning
-  - `as the word says scanning means to shortly scan the given context it is kind of a reading method just like skimming`
+- `as the word says scanning means to shortly scan the given context it is kind of a reading method just like skimming`
     
    
 
