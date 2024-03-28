@@ -189,6 +189,47 @@ E --> F([end])
 |a+1|a+1|
 |b=8|b=7|
 
+# conditions ( if , else , else if )
+ - In C++, conditions are used to make decisions based on certain criteria. Here are the main types of conditions in C++ along with examples:
+ * `if Statement`:
+ *  The if statement is the most basic conditional statement in C++. It allows you to execute a block of code only if a specified condition is true. Here is an example:
+   ```
+ if (condition) {
+    // Code to be executed if the condition is true
+}
+```
+
+* if...else Statement:
+*  The if...else statement is used to provide an alternative block of code to be executed when the condition in the if statement is false. Here is an example:
+  ```
+ if (condition) {
+    // Code to be executed if the condition is true
+} else {
+    // Code to be executed if the condition is false
+}
+```
+* if...else if Statement:
+*  The if...else if statement allows you to test multiple conditions one after another. It is used when you have more than two possible outcomes. Here is an example:
+```
+ if (condition1) {
+    // Code to be executed if condition1 is true
+} else if (condition2) {
+    // Code to be executed if condition2 is true
+} else {
+    // Code to be executed if all conditions are false
+}
+```
+- Nested if...else Statement:
+- Sometimes, you may need to use an if statement inside another if statement, known as nested if statements. This allows for multiple layers of conditions. Here is an example:
+```
+if (condition1) {
+    // Statements
+    if (condition2) {
+        // Statements
+    }
+}
+```
+
 
   
 
