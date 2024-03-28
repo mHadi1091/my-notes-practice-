@@ -236,7 +236,15 @@ if (condition1) {
 * `While Loop:` A while loop is another entry-controlled loop that repeats a statement or group of statements while a given condition is true. It tests the condition before executing the loop body and continues to execute as long as the condition remains true.
 * `Do-While Loop:` The do-while loop is an exit-controlled loop that is similar to the while loop but guarantees that the loop body is executed at least once before checking the condition. It tests the condition at the end of the loop body.
 These loops play a fundamental role in controlling program flow, executing repetitive tasks efficiently, and simplifying complex logic or data manipulation. They are powerful tools in C++ programming for enhancing code readability, reusability, and maintainability !!!.
+# Syntax of loops
+- `for loop syntax:`
+  ```
+  for (int i = 1; i <= 5; ++i) {
+    cout << i << " ";
+  }
+  ```
 
+ ``` 
 
 
 
