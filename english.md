@@ -15,7 +15,12 @@
 * whats are articles
 * articles rules
 * `quiz taken related to active and passive tenses`
-# skimming
-- skimming is said to be the way of fast reading and overviewing the main idea and concept of the given texts 
+# lecture no: 05
+* skimming
+- `skimming is said to be the way of fast reading and overviewing the main idea and concept of the given texts`
+* scanning
+  - `as the word says scanning means to shortly scan the given context it is kind of a reading method just like skimming`
+    
+   
 
   
