@@ -100,5 +100,38 @@ This equation is identical to the electric field formula for a point charge. So,
 
 * In summary, the electric field of a uniformly charged sphere has a distinct behavior in each of these three regions
 
+  # application no:01 electric field intensity due to infinite sheet of charge
+  1. Define Parameters:
+  Let's assume the surface charge density of the infinite sheet (σ) is +5 x 10^-9 C/m² (positive charge).
+  We'll use the permittivity of free space (ε₀) as its approximate value, 8.85 x 10^-12 C²/N∙m².
+2. Choose Gaussian Surface:
+  Imagine a right cylinder with a radius of 0.1 meters (R = 0.1 m).
+  The length (L) doesn't affect the final result as long as it's large enough to encompass the region of interest.
+3. Calculate Area of Flat Ends:
+   Area of each circular base (A) = π * R² = π * (0.1 m)² ≈ 0.0314 m²
+4. Apply Gauss's Law:
+   We won't directly calculate the flux (E • dA) because it simplifies due to symmetry.
+5. Consider Enclosed Charge:
+   The enclosed charge (Q) within the cylinder is due to the sheet and can be found by multiplying the surface 
+ charge density (σ) by the area (A) of one flat end:
+`Q = σ * A = (5 x 10^-9 C/m²) * (0.0314 m²) ≈ 1.57 x 10^-10 C`
+6. Solve for Electric Field:
+   Recall the formula derived from Gauss's Law:
+E = σ / (2ε₀)
+
+Plug in the values:
+E = (+5 x 10^-9 C/m²) / (2 * 8.85 x 10^-12 C²/N∙m²) ≈ 2.83 x 10^2 N/C
+
+7. Convert to Electric Field Intensity:
+
+Electric field intensity (E) is measured in Volts/meter (V/m). We need to convert the force per unit charge (N/C) to V/m:
+E = (2.83 x 10^2 N/C) * (1 V/1 N) ≈ 2.83 x 10^2 V/m
+
+Interpretation:
+
+The electric field intensity due to the infinite sheet of charge with a positive surface charge density of +5 x 10^-9 C/m² is approximately 2.83 x 10^2 V/m, directed away from the sheet as expected.
+
+Note: This is a simplified example. You can adjust the values of σ and R based on your specific problem.
+
   
    
