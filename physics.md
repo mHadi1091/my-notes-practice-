@@ -86,13 +86,13 @@ r is the distance from the center of the sphere to the point of interest
 R is the radius of the sphere
 ε₀ (epsilon naught) is the permittivity of free space
 ```
-* Interestingly, the electric field inside the sphere increases linearly with distance from the center and becomes zero at the center (where r = 0).
+* Interestingly, the electric field inside the sphere increases linearly with distance from the center and becomes zero at the center `(where r = 0)`.
 
-* On the surface of the sphere (r = R):
+* `On the surface of the sphere (r = R)`:
 This is a special case where the value of E can be found by evaluating the expression for E inside the sphere at r = R.
 
-* Outside the sphere (r > R):
-In this region, the electric field behaves as if all the charge (Q) were concentrated at the center of the sphere. Gauss's Law again helps us derive the formula for E outside the sphere:
+* `Outside the sphere (r > R)`:
+In this region, the electric field behaves as if `all the charge (Q)` were concentrated at the center of the sphere. Gauss's Law again helps us derive the formula for E outside the sphere:
 ```
 E = Q / (4πε₀r²)
 ```
