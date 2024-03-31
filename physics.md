@@ -72,7 +72,33 @@ Gauss's law is a powerful tool for solving problems in electrostatics because it
 For example, it can be used to determine the electric field of a uniformly charged sphere, a cylinder, or a plane sheet.
 
 # Electric field of a uniformly charged sphere
-*
+* The electric field of a uniformly charged sphere depends on the location of the point of interest relative to the sphere. We can analyze it using Gauss's Law for three regions:
+
+* Inside the sphere (r < R):
+In this region, the electric field (E) is not uniform and varies with distance (r) from the center. Gauss's Law helps us derive the formula for E inside the sphere:
+```
+E = (Q * r) / (4πε₀R³)
+
+Here,
+
+Q is the total charge of the sphere
+r is the distance from the center of the sphere to the point of interest
+R is the radius of the sphere
+ε₀ (epsilon naught) is the permittivity of free space
+```
+* Interestingly, the electric field inside the sphere increases linearly with distance from the center and becomes zero at the center (where r = 0).
+
+* On the surface of the sphere (r = R):
+This is a special case where the value of E can be found by evaluating the expression for E inside the sphere at r = R.
+
+* Outside the sphere (r > R):
+In this region, the electric field behaves as if all the charge (Q) were concentrated at the center of the sphere. Gauss's Law again helps us derive the formula for E outside the sphere:
+```
+E = Q / (4πε₀r²)
+```
+This equation is identical to the electric field formula for a point charge. So, the outside region experiences a uniform electric field radially outward, just like a point charge with the same total charge (Q).
+
+* In summary, the electric field of a uniformly charged sphere has a distinct behavior in each of these three regions
 
   
    
