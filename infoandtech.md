@@ -146,7 +146,7 @@ The user does not need to know how the web browser application works or how the 
 # further examples-->>
 * `Booting:` 
 The process of starting up a computer and loading the operating system into memory.
-`Memory management:` 
+* `Memory management:` 
 The process of allocating and managing memory for running programs.
 * `Data security:`
 The process of protecting data from unauthorized access, use, disclosure, disruption, modification, or destruction.
@@ -157,8 +157,28 @@ The part of the operating system that allows users to interact with the computer
 * `Process management:`
 The process of managing the execution of programs, including allocating resources and scheduling them to run on the CPU.
 * `Allocation of resources:` 
-The process of allocating system resources to programs, such as CPU time, memory, and disk space.
+## user interface
+When you work on a computer; you see and use a set of items on the screen. These items are called the user interface. 
 
+* `The two most common types of user interfaces are:`
+
+* `1. Graphical User Interfaces (GUI):`
+ In Graphical User Interfaces you use a mouse to work with graphical objects such as menus, icons, buttons, and other tools. For example: Windows provide GUI
+
+* These graphical tools represent different types of commands. The GUI enables you to issue commands to the computer by using visual objects instead of typing commands. This is one of the key advantages of a graphical user interface; it frees you from memorizing and typing text commands.
+
+* A graphical user interface (GUI) is a way of interacting with a computer using images and objects instead of text commands
+ 
+* GUIs are typically easier to use for beginners than command-line interfaces (CLIs), because they are more intuitive and require less knowledge of the underlying system
+
+* GUIs typically use a variety of visual elements, such as windows, icons, menus, and buttons, to allow users to interact with the computer
+
+* Users can use the mouse or keyboard to click on buttons, drag and drop icons, and type text into fields
+GUIs are commonly used in operating systems, web browsers, and other software applications 
+
+### GUIs are commonly used in operating systems, web browsers, and other software  applications 
+* `Some examples of GUI operating systems include Windows, macOS, and Linux. Some examples of GUI web browsers include Chrome, Firefox, and Edge.` 
+* `Some examples of GUI software applications include Microsoft Office, Adobe Photoshop, and VLC Media Player`
 
 
 
