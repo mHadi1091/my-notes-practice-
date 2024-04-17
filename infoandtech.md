@@ -192,7 +192,26 @@ In command line interface, you write commands rather than graphical objects to e
 
 * CLIs are commonly used for system administration tasks, such as managing files and folders, configuring network settings, and troubleshooting problems. CLIs are also used by software developers to create and test new software applications
 
-* `Some examples of CLI operating systems include Linux and macOS` 
+* `Some examples of CLI operating systems include Linux and macOS`
+ # advantages / disadvantgaes
+##  GUIs
+ * `Advantages:`
+* Easy to use for beginners
+* More intuitive than CLIs
+  *` Disadvantages:`
+* Can be slower than CLIs
+* Can be less powerful than CLIs
+* Can be more resource-intensive than CLIs
+## CLIs
+* `Advantages:`
+* Faster than GUIs
+* More powerful than GUIs
+* Less resource-intensive than GUIs
+* `Disadvantages:`
+* Difficult to use for beginners
+* Less intuitive than GUIs
+* Requires knowledge of specific commands
+
 
 
 
