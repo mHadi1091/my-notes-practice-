@@ -174,11 +174,27 @@ When you work on a computer; you see and use a set of items on the screen. These
 * GUIs typically use a variety of visual elements, such as windows, icons, menus, and buttons, to allow users to interact with the computer
 
 * Users can use the mouse or keyboard to click on buttons, drag and drop icons, and type text into fields
-GUIs are commonly used in operating systems, web browsers, and other software applications 
+GUIs are commonly used in operating systems, web browsers, and other software applications
+
 
 ### GUIs are commonly used in operating systems, web browsers, and other software  applications 
 * `Some examples of GUI operating systems include Windows, macOS, and Linux. Some examples of GUI web browsers include Chrome, Firefox, and Edge.` 
 * `Some examples of GUI software applications include Microsoft Office, Adobe Photoshop, and VLC Media Player`
+
+# Command-Line Interfaces
+In command line interface, you write commands rather than graphical objects to execute tasks.
+
+* Older operating systems such as MS-DOS and some current versions of UNIX and Linux, provide command-line interface. 
+
+* A command-line interface (CLI) is a way of interacting with a computer using text commands. CLIs are typically more difficult to use for beginners than GUIs, because they require users to know the specific commands to execute in order to perform desired tasks
+
+* CLIs typically use a text-based interface, such as a terminal window, to allow users to enter and receive commands. Users can type commands into the terminal window and press Enter to execute them.
+
+* CLIs are commonly used for system administration tasks, such as managing files and folders, configuring network settings, and troubleshooting problems. CLIs are also used by software developers to create and test new software applications
+
+* `Some examples of CLI operating systems include Linux and macOS` 
+
+
 
 
 
