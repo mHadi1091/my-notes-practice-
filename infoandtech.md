@@ -152,6 +152,13 @@ The process of allocating and managing memory for running programs.
 The process of protecting data from unauthorized access, use, disclosure, disruption, modification, or destruction.
 * `Drive/disk management:` 
 The process of managing computer drives and dividing disks into partitions.
+* `User interface:`
+The part of the operating system that allows users to interact with the computer.
+* `Process management:`
+The process of managing the execution of programs, including allocating resources and scheduling them to run on the CPU.
+* `Allocation of resources:` 
+The process of allocating system resources to programs, such as CPU time, memory, and disk space.
+
 
 
 
