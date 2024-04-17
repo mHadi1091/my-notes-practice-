@@ -135,6 +135,23 @@ Cons:
 * `Manufacturing Integration`: CAD software can generate instructions for computer-controlled machines used in manufacturing (CAM - Computer-Aided Manufacturing), streamlining the production process.
 
 ## assignment#02 complete
+# operating systems 
+* An operating system is the most important software on a computer. It is responsible for managing the computer's hardware and software resources, and providing a platform for application programs to run on.
+* The operating system acts as an intermediary between the user and the computer hardware. It hides the complexity of the hardware from the user, and provides a simple and easy-to-use interface for interacting with the computer.
+* An operating system is a software which performs all the basic tasks like file management, memory management, process management, handling input and output, and controlling peripheral devices such as disk drives and printers.
+## Here is another example:
+* When the user clicks on a link in a web browser, the operating system intercepts the click and opens the web browser application. The web browser application then sends a request to the web server for the page that the user wants to visit.
+* The web server sends the page back to the web browser application, which then displays it to the user.
+The user does not need to know how the web browser application works or how the web server works in order to open a web page. The operating system takes care of all the communication between the web browser application and the web server.
+# further examples-->>
+* `Booting:` 
+The process of starting up a computer and loading the operating system into memory.
+`Memory management:` 
+The process of allocating and managing memory for running programs.
+* `Data security:`
+The process of protecting data from unauthorized access, use, disclosure, disruption, modification, or destruction.
+* `Drive/disk management:` 
+The process of managing computer drives and dividing disks into partitions.
 
 
 
