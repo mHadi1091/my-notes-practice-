@@ -181,7 +181,7 @@ GUIs are commonly used in operating systems, web browsers, and other software ap
 * `Some examples of GUI operating systems include Windows, macOS, and Linux. Some examples of GUI web browsers include Chrome, Firefox, and Edge.` 
 * `Some examples of GUI software applications include Microsoft Office, Adobe Photoshop, and VLC Media Player`
 
-# Command-Line Interfaces
+# Command-Line Interfaces 👩‍💻
 In command line interface, you write commands rather than graphical objects to execute tasks.
 
 * Older operating systems such as MS-DOS and some current versions of UNIX and Linux, provide command-line interface. 
@@ -202,7 +202,7 @@ In command line interface, you write commands rather than graphical objects to e
 * Can be slower than CLIs
 * Can be less powerful than CLIs
 * Can be more resource-intensive than CLIs
-## CLIs
+## CLIs 👩‍💻
 * `Advantages:`
 * Faster than GUIs
 * More powerful than GUIs
