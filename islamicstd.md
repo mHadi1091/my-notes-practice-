@@ -1,4 +1,4 @@
-# lecture no 1
+# lecture no 1 📝
 ## topics 
 * intorduction to islam
 * meaning of islam
