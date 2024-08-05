@@ -117,8 +117,8 @@ D --> F([end])
 E --> F([end])
 ```
 ## lab tasks #01
-* make a flowchart & pseudo-code of add two numbers
-* make a flowchart & pesudo-code of odd numbers
+* make a flowchart & psudo-code of add two numbers
+* make a flowchart & psudo-code of odd numbers
 * make a program based on user use which gives the avarage of 3 given values
 
  # history of programming languages 
